@@ -178,9 +178,9 @@ No known bugs at this time.
 
 ## Authors
 
-YASSINE RAHHOOU - [Github](https://github.com/yassinerahhou) / [Twitter](https://twitter.com/yassinerahhou)  
-ZAKARIA EL AROUSSI - [Github](https://github.com/DepressedPenguin/) / [Twitter](https://twitter.com/DepressedPenguin/)
+ZAKARIA HACI - [Github](https://github.com/Zaka-hc/)
 
 ## License
 
+B
 Public Domain. No copy write protection.
